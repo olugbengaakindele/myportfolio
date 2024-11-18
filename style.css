@@ -1,0 +1,12 @@
+
+.custom-search-bar {
+    max-width: 600px; /* Adjust as needed */
+    margin: 20px auto;
+    background-color: #f8f9fa; /* Light background color */
+    border-radius: 25px;
+    border: 1px solid #ddd;
+}
+.custom-search-bar .form-control {
+    border: none;
+    box-shadow: none;
+}
