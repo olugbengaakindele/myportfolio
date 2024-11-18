@@ -15,10 +15,24 @@ class SpecialHeader extends HTMLElement{
                   </a>
                   <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="fend.html">Frontend</a></li>
+                    <li><a class="dropdown-item" href="bend.html">Backend</a></li>
                     
                   </ul>
               </li>
-            
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Tutorials
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">SQL</a></li>
+                <li><a class="dropdown-item" href="#">Python</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="#">VBA</a></li>
+              </ul>
+            </li>
 
         </div>
       </div>
