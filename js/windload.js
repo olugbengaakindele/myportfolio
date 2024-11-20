@@ -1,3 +1,5 @@
+
+
 const tamt = document.querySelector("#tamt");
 const samt = document.querySelector("#samt");
 const intr = document.querySelector("#intr");
@@ -17,4 +19,4 @@ window.onload = function() {
     
    
 }
-bstgt.addEventListener("click" , savings)
+bstgt.addEventListener("click" , savings);
