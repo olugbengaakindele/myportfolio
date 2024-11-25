@@ -14,4 +14,4 @@ window.addEventListener("load", calculateFutureValue);
 
 bstgt.addEventListener("click" , calculateFutureValue);
 btsr.addEventListener("click",  gitHubFinder);
-newsearchbtn.addEventListener("click", getNews)
+// newsearchbtn.addEventListener("click", getNews)

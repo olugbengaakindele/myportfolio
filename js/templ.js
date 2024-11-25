@@ -14,7 +14,8 @@ class SpecialHeader extends HTMLElement{
                     Projects
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="fend.html">Frontend</a></li>
+                    <li><a class="dropdown-item" href="fend.html">API usage</a></li>
+                    <li><a class="dropdown-item" href="dashboard.html">Dashboard</a></li>
                     
                   </ul>
               </li>
